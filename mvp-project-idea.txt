@@ -1,0 +1,38 @@
+1. Expense Tracker App
+
+Pitch/Idea
+
+An expense tracker where you can input all forms of income and expenses and displays a pie chart for both.
+
+MVP:
+
+- Users can choose from different categories to input income
+- Users can choose from different categories to input expenses
+- Users will be able to see their current balance
+- App will be responsive
+
+Future Features:
+
+- Users can create and log into their account
+- Users can use voice activation tech to input income and expenses
+
+2. Find A Recipe App
+
+Pitch/Idea
+
+A simple receipe app where users can find any recipe they wish to cook
+
+MVP:
+
+- Utilize Edamam API for data
+- Users can search for any recipe
+- Users can type in select keywords to display all recipes containing those keywords
+- Each recipe will include all ingredients
+- App will be responsive
+
+Future Features: 
+
+- Users can create and log into their account
+- Users can add certain recipes to a 'favorites list'
+
+
